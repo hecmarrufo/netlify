@@ -3,6 +3,7 @@ backend:
   repo: hecmarrufo/netlify
   branch: master
   
+  
 media_folder: static/assets
 public_folder: assets
   
